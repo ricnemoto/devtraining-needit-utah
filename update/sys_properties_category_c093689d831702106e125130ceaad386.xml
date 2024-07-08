@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_properties_category">
+    <sys_properties_category action="INSERT_OR_UPDATE">
+        <name>Needlt Properties</name>
+        <sys_class_name>sys_properties_category</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-07-08 17:42:57</sys_created_on>
+        <sys_id>c093689d831702106e125130ceaad386</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Needlt Properties</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>sys_properties_category_c093689d831702106e125130ceaad386</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-07-08 17:42:57</sys_updated_on>
+        <title><![CDATA[<p><img title="lamp.png" src="/sys_attachment.do?sys_id&#61;25d3ac9d831702106e125130ceaad3b3" alt="" width="77" height="77" /><span style="font-size: 12pt;">System parameters</span></p>]]></title>
+    </sys_properties_category>
+    <sys_translated_text action="delete_multiple" query="documentkey=c093689d831702106e125130ceaad386"/>
+</record_update>
